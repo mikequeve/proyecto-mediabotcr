@@ -376,7 +376,7 @@ section {
   margin-inline: 1rem;
 }
 
-.about .container{
+.about .container {
   flex-direction: column;
 }
 
@@ -441,7 +441,7 @@ section {
 }
 
 .project-card-container {
-  width: min(100%, 35rem);
+  width: min(100%, 32rem);
   height: 35rem;
   display: flex;
   flex-direction: column;
@@ -612,7 +612,7 @@ section {
   color: var(--text-color);
 }
 
-.contact .container .text-container{
+.contact .container .text-container {
   margin-bottom: 5rem;
 }
 
@@ -782,7 +782,7 @@ textarea::placeholder {
   margin-bottom: 2rem;
 }
 
-.accordion-header .accordion-title{
+.accordion-header .accordion-title {
   text-transform: uppercase;
 }
 
@@ -894,7 +894,7 @@ footer .container {
     overflow-x: hidden;
   }
 
-  a{
+  a {
     cursor: none;
   }
 
