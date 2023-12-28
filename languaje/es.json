@@ -1,0 +1,43 @@
+{
+  "header":{
+    "menu-home": "Inicio",
+    "menu-about": "Sobre Nosotros",
+    "menu-projects": "Proyectos",
+    "menu-services": "Servicios",
+    "menu-contact": "Contacto"
+  },
+  "banner": {
+    "title": "Construyamos cosas increíbles juntos.",
+    "banner-text": "Conecta con tus clientes a través de un sitio web que provoque un impacto positivo en ellos.",
+    "banner-action": "Descubrir Más"
+  },
+  "about": {
+    "subtitle": "Sobre Nosotros",
+    "about-text": "Con una pasión inquebrantable por la innovación, MediaBot se erige como el socio ideal para aquellos que buscan destacarse en el vasto panorama digital. Nuestro compromiso va más allá de la creación de sitios web visualmente impactantes; trabajamos incansablemente para comprender la esencia única de cada marca y transformarla en una narrativa digital cautivadora. \n\n En MediaBot, la excelencia es nuestro estándar, la creatividad es nuestra moneda y la satisfacción del cliente es nuestra brújula. Nos enorgullece ser los artesanos de la transformación digital, ofreciendo soluciones que superan las expectativas y estableciendo estándares en la intersección de la tecnología y la creatividad."
+  },
+  "projects": {
+    "subtitle": "Proyectos"
+  },
+  "services": {
+    "subtitle": "Servicios",
+    "card-text": "Sitio web personalizado",
+    "card2-text": "Optimización para motores de busqueda",
+    "card3-text": "Sitio web Accesible",
+    "card4-text": "Mercadeo para Redes Sociales"
+  },
+  "contact": {
+    "subtitle": "Mantengámonos en Contacto",
+    "contact-text": "Envíanos tus dudas o preguntas sobre tu proyecto; hagamos que tu negocio prospere.\n\nMediabot: Tú Visión, Nuestro compromiso."
+  },
+  "faqs": {
+    "question-1": "¿Cuánto debo esperar pagar por un sitio web?",
+    "answer-1": "Todo depende del alcance del proyecto. Durante nuestra primera reunión, buscaremos definir las necesidades y puntos clave de tu proyecto: el número de páginas, las funcionalidades específicas, la urgencia y la cantidad de animaciones necesarias son factores determinantes que influyen en el costo final. El costo puede aumentar significativamente según la complejidad inherente de su implementación. Mi objetivo siempre es encontrar una tarifa justa que se adapte a ambas partes.",
+    "question-2": "¿Cuánto tiempo tomará para que mi sitio web esté visible?",
+    "answer-2": "Esto dependerá de tus necesidades: Un sitio web de una sola página puede tomar entre tres y cuatro semanas. Un sitio web completo con 5-10 páginas puede tomar entre 6-8 semanas. Por supuesto, estas cifras son solo para fines informativos. Si ya tienes todo tu contenido de antemano y no tienes muchos comentarios, el tiempo de entrega se reducirá drásticamente",
+    "question-3": "¿Porqué debería contratar tus servicios?",
+    "answer-3": "Nuestro compromiso va más allá de entregar un proyecto; estamos aquí para ser tus socios digitales en cada paso del camino. Creemos en construir relaciones a largo plazo. Profundizamos en una comprensión profunda de tus necesidades y objetivos, trabajando juntos para garantizar que cada aspecto de nuestra colaboración sea un paso hacia un éxito online sostenible.",
+    "question-4": "¿Ofreces otros servicios aparte de Desarrollo Web?",
+    "answer-4": "¡Claro! Entre los servicios que ofrecemos se encuentran estrategias de marketing en redes sociales y fotografía de productos." 
+  }
+
+}

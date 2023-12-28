@@ -1,0 +1,42 @@
+{
+  "header": {
+    "menu-home": "Início",
+    "menu-about": "Sobre Nós",
+    "menu-projects": "Projetos",
+    "menu-services": "Serviços",
+    "menu-contact": "Contato"
+  },
+  "banner": {
+    "title": "Vamos construir coisas incríveis juntos.",
+    "banner-text": "Conecta-te aos teus clientes através de um site que cause um impacto positivo neles.",
+    "banner-action": "Descubra mais"
+  },
+  "about": {
+    "subtitle": "Sobre Nós",
+    "about-text": "Com uma paixão inabalável pela inovação, a MediaBot se destaca como o parceiro ideal para aqueles que buscam se destacar no vasto cenário digital. Nosso comprometimento vai além da criação de sites visualmente impactantes; trabalhamos incansavelmente para compreender a essência única de cada marca e transformá-la em uma narrativa digital envolvente.\n\nNa MediaBot, a excelência é nosso padrão, a criatividade é nossa moeda e a satisfação do cliente é nossa bússola. Temos orgulho de ser os artesãos da transformação digital, oferecendo soluções que superam as expectativas e estabelecendo padrões na interseção da tecnologia e da criatividade."
+  },
+  "projects": {
+    "subtitle": "Projetos"
+  },
+  "services": {
+    "subtitle": "Serviços",
+    "card-text": "Site personalizado",
+    "card2-text": "Otimização para motores de busca",
+    "card3-text": "Sítio web acessível",
+    "card4-text": "Marketing para Redes Sociais"
+  },
+  "contact": {
+    "subtitle": "Mantenhamos contato.",
+    "contact-text": "Envie suas dúvidas ou perguntas sobre seu projeto; vamos fazer o seu negócio prosperar.\n\nMediaBot: Sua Visão, Nosso Compromisso."
+  },
+  "faqs": {
+    "question-1": "Quanto devo esperar pagar por um site?",
+    "answer-1": "Tudo depende do escopo do projeto. Durante nossa primeira reunião, procuraremos definir as necessidades e pontos-chave do seu projeto: o número de páginas, as funcionalidades específicas, a urgência e a quantidade de animações necessárias são fatores determinantes que influenciam no custo final. O custo pode aumentar significativamente de acordo com a complexidade inerente à sua implementação. Meu objetivo é sempre encontrar uma taxa justa que atenda a ambas as partes.",
+    "question-2": "Quanto tempo levará para que meu site esteja visível?",
+    "answer-2": "Isso dependerá das suas necessidades: um site de uma única página pode levar entre três e quatro semanas. Um site completo com 5-10 páginas pode levar entre 6-8 semanas. Claro, esses números são apenas para fins informativos. Se você já tiver todo o seu conteúdo antecipadamente e não tiver muitos feedbacks, o tempo de entrega será drasticamente reduzido.",
+    "question-3": "Por que deveria contratar os seus serviços?",
+    "answer-3": "Nosso compromisso vai além de entregar um projeto; estamos aqui para ser seus parceiros digitais em cada passo do caminho. Acreditamos em construir relacionamentos de longo prazo. Aprofundamos nossa compreensão das suas necessidades e objetivos, trabalhando juntos para garantir que cada aspecto da nossa colaboração seja um passo em direção a um sucesso online sustentável.",
+    "question-4": "Você oferece outros serviços além de Desenvolvimento Web?",
+    "asnwer-4": "Claro! Entre os serviços que oferecemos estão estratégias de marketing em redes sociais e fotografia de produtos"
+  }
+}
