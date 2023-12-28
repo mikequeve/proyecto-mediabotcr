@@ -441,7 +441,7 @@ section {
 }
 
 .project-card-container {
-  width: min(100%, 35rem);
+  width: min(100%, 32rem);
   height: 35rem;
   display: flex;
   flex-direction: column;
