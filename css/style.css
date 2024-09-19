@@ -60,7 +60,7 @@ section {
 }
 
 .container {
-  width: min(100%, 1728px);
+  width: min(100%, 1280px);
   height: 100%;
   padding: 3.125rem 5%;
   display: flex;
@@ -122,6 +122,12 @@ section {
   padding: 0.8rem 3%;
   background-color: var(--terciary-action);
   border-bottom: 1px solid var(--text-color);
+}
+
+.header .container {
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
 }
 
 .menu-list {
@@ -228,8 +234,8 @@ section {
 .text-container {
   display: flex;
   flex-direction: column;
-  justify-content: start;
-  align-items: start;
+  justify-content: center;
+  align-items: center;
 }
 
 .title {
@@ -909,7 +915,7 @@ footer .container {
   }
 
   .container {
-    padding: 6.35rem 8%;
+    padding: 6.35rem 0;
   }
 
   .header {
@@ -921,6 +927,11 @@ footer .container {
     padding: 0.8rem 8%;
     border-bottom: initial;
     z-index: 999;
+  }
+
+  .header .container {
+    padding: 0;
+    margin: 0 auto;
   }
 
   .header.sticky {
@@ -963,9 +974,9 @@ footer .container {
   /* Banner Styles */
 
   .banner .container {
-    align-items: start;
+    align-items: center;
     justify-content: center;
-    padding: 7.5rem 8%;
+    padding-top: 10rem;
   }
 
   .title {
@@ -976,7 +987,6 @@ footer .container {
   .text-container {
     width: 48%;
     align-items: start;
-    margin-top: 3rem;
     margin-left: -50px;
   }
 
@@ -1210,7 +1220,7 @@ footer .container {
   }
 
   footer .container {
-    padding: 1rem 8%;
+    padding: 1rem 0;
     flex-direction: row;
     justify-content: space-between;
   }
