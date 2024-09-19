@@ -392,7 +392,6 @@ section {
   font-family: var(--text-font);
   margin: 2rem 0;
   font-size: var(--paragraph);
-  white-space: pre-wrap;
 }
 
 /* Infinete Tech Slider Styles */
@@ -634,7 +633,6 @@ section {
 
 .contact .container .text-container .text {
   margin-top: 2rem;
-  white-space: pre-wrap;
   margin-right: 2rem;
 }
 
