@@ -13,7 +13,7 @@
   },
   "about": {
     "subtitle": "About Us",
-    "about-text": "With an unwavering passion for innovation, MediaBot stands as the ideal partner for those looking to stand out in the vast digital landscape. Our commitment goes beyond crafting visually stunning websites; we tirelessly work to understand the unique essence of each brand and transform it into a captivating digital narrative. \n\n At MediaBot, excellence is our standard, creativity is our currency, and customer satisfaction is our compass. We take pride in being the artisans of digital transformation, offering solutions that surpass expectations and setting standards at the intersection of technology and creativity."
+    "about-text": "With an unwavering passion for innovation, MediaBot stands as the ideal partner for those looking to stand out in the vast digital landscape. Our commitment goes beyond crafting visually stunning websites; we tirelessly work to understand the unique essence of each brand and transform it into a captivating digital narrative. <br/> <br/> At MediaBot, excellence is our standard, creativity is our currency, and customer satisfaction is our compass. We take pride in being the artisans of digital transformation, offering solutions that surpass expectations and setting standards at the intersection of technology and creativity."
   },
   "projects": {
     "subtitle": "Projects"
@@ -27,13 +27,13 @@
   },
   "contact": {
     "subtitle": "get in touch",
-    "contact-text":"Sends us your doubts or ask about your project; let’s make your bussiness thrive.\n\nMediabot, Your vision, our commitment!"
+    "contact-text": "Sends us your doubts or ask about your project; let’s make your bussiness thrive.<br/> <br/> Mediabot, Your vision, our commitment!"
   },
   "faqs": {
     "question-1": "HOW MUCH SHOULD I EXPECT TO PAY FOR A WEBSITE?",
     "answer-1": "Everything depends on the scope of the project. During our first meeting, we will seek to define the needs and key points of your project: the number of pages, specific functionalities, urgency, and the quantity of necessary animations are determining factors that influence the final cost. The cost may increase significantly depending on the inherent complexity of its implementation. My goal is always to find a fair rate that suits both parties..",
     "question-2": "HOW LONG WILL IT TAKE FOR MY SITE TO BE DISPLAYED?",
-    "answer-2": "This will depend on your needs: \n\n - A single landing-page may take between three and four weeks. \n\n - A complete website with 5-10 pages may take between 6-8 weeks. \n\n Of course, these figures are for information purposes only. If you already have all of your content beforehand and you don't have a lot of feedback, then the delivery time will be drastically reduced!",
+    "answer-2": "This will depend on your needs: <br/> - A single landing-page may take between three and four weeks. <br/> - A complete website with 5-10 pages may take between 6-8 weeks. <br/> Of course, these figures are for information purposes only. If you already have all of your content beforehand and you don't have a lot of feedback, then the delivery time will be drastically reduced!",
     "question-3": "WHY SHOULD I HIRE YOUR SERVICES?",
     "answer-3": "Our commitment goes beyond delivering a project; we are here to be your digital partners every step of the way. We believe in building long-term relationships. We delve into a deep understanding of your needs and goals, working together to ensure that every aspect of our collaboration is a step toward sustainable online success.",
     "question-4": "DO YOU OFFER OTHER SERVICES THAN WEB DESIGN?",

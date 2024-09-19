@@ -1,9 +1,8 @@
 const d = document;
 export default function translateBtn() {
-  let $translateBtn = d.getElementById("translate-btn");
-  
+  let $translateBtn = d.getElementById('translate-btn');
 
-  const textsToChange = d.querySelectorAll("[data-section]");
+  const textsToChange = d.querySelectorAll('[data-section]');
   //console.log(textsToChange);
 
   const changeLanguaje = async (languaje) => {
@@ -16,10 +15,9 @@ export default function translateBtn() {
       //console.log($section, $value);
       textToChange.innerHTML = texts[$section][$value];
     }
-  }
+  };
 
-
-  $translateBtn.addEventListener("click", (e) => {
+  $translateBtn.addEventListener('click', (e) => {
     changeLanguaje(e.target.parentElement.dataset.languaje);
   });
 }
