@@ -1,10 +1,11 @@
 @font-face {
-  font-family: "Vipnagorgialla";
-  src: url("../fonts/VipnagorgiallaRg-Bold.eot");
-  src: url("../fonts/VipnagorgiallaRg-Bold.eot?#iefix") format("embedded-opentype"),
-    url("../fonts/VipnagorgiallaRg-Bold.woff2") format("woff2"),
-    url("../fonts/VipnagorgiallaRg-Bold.woff") format("woff"),
-    url("../fonts/VipnagorgiallaRg-Bold.ttf") format("truetype");
+  font-family: 'Vipnagorgialla';
+  src: url('../fonts/VipnagorgiallaRg-Bold.eot');
+  src: url('../fonts/VipnagorgiallaRg-Bold.eot?#iefix')
+      format('embedded-opentype'),
+    url('../fonts/VipnagorgiallaRg-Bold.woff2') format('woff2'),
+    url('../fonts/VipnagorgiallaRg-Bold.woff') format('woff'),
+    url('../fonts/VipnagorgiallaRg-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -23,8 +24,8 @@
   --title: 3.5rem;
   --subtitle: 2.5rem;
   --paragraph: 1.2rem;
-  --title-font: "Vipnagorgialla", sans-serif;
-  --text-font: "Montserrat", sans-serif;
+  --title-font: 'Vipnagorgialla', sans-serif;
+  --text-font: 'Montserrat', sans-serif;
 }
 
 *,
@@ -59,7 +60,7 @@ section {
 }
 
 .container {
-  width: min(100%, 1728px);
+  width: min(100%, 1280px);
   height: 100%;
   padding: 3.125rem 5%;
   display: flex;
@@ -486,16 +487,25 @@ section {
   transition: ease-in-out 10s;
 }
 
-.projects-container .project-card-container:nth-child(2) .project-card .card-content {
+.projects-container
+  .project-card-container:nth-child(2)
+  .project-card
+  .card-content {
   background-image: url(../img/landing-itravel.png);
 }
 
-.projects-container .project-card-container:nth-child(3) .project-card .card-content {
+.projects-container
+  .project-card-container:nth-child(3)
+  .project-card
+  .card-content {
   background-image: url(../img/landing-catursantos.png);
   transition: ease-in-out 20s;
 }
 
-.projects-container .project-card-container:nth-child(4) .project-card .card-content {
+.projects-container
+  .project-card-container:nth-child(4)
+  .project-card
+  .card-content {
   background-image: url(../img/landing-congreso.png);
 }
 
@@ -899,7 +909,7 @@ footer .container {
   }
 
   .container {
-    padding: 6.35rem 8%;
+    padding: 6.35rem 0;
   }
 
   .header {
@@ -908,9 +918,15 @@ footer .container {
     width: 100%;
     top: 0;
     left: 0;
-    padding: 0.8rem 8%;
+    padding: 0.8rem;
     border-bottom: initial;
     z-index: 999;
+  }
+
+  .header .container {
+    padding: 0;
+    margin: auto;
+    justify-content: space-between;
   }
 
   .header.sticky {
@@ -955,18 +971,20 @@ footer .container {
   .banner .container {
     align-items: start;
     justify-content: center;
-    padding: 7.5rem 8%;
+    padding: 7.5rem 0;
   }
 
   .title {
     font-size: 600%;
     text-align: start;
+    margin-top: 4rem;
   }
 
   .text-container {
     width: 48%;
     align-items: start;
     margin-top: 3rem;
+    margin-left: -50px;
   }
 
   .text {
@@ -1142,7 +1160,7 @@ footer .container {
   }
 
   .service-card-text::before {
-    content: "";
+    content: '';
     position: absolute;
     width: 1.2rem;
     height: 1rem;
@@ -1199,7 +1217,7 @@ footer .container {
   }
 
   footer .container {
-    padding: 1rem 8%;
+    padding: 1rem 0;
     flex-direction: row;
     justify-content: space-between;
   }
