@@ -1,10 +1,11 @@
 @font-face {
-  font-family: "Vipnagorgialla";
-  src: url("../fonts/VipnagorgiallaRg-Bold.eot");
-  src: url("../fonts/VipnagorgiallaRg-Bold.eot?#iefix") format("embedded-opentype"),
-    url("../fonts/VipnagorgiallaRg-Bold.woff2") format("woff2"),
-    url("../fonts/VipnagorgiallaRg-Bold.woff") format("woff"),
-    url("../fonts/VipnagorgiallaRg-Bold.ttf") format("truetype");
+  font-family: 'Vipnagorgialla';
+  src: url('../fonts/VipnagorgiallaRg-Bold.eot');
+  src: url('../fonts/VipnagorgiallaRg-Bold.eot?#iefix')
+      format('embedded-opentype'),
+    url('../fonts/VipnagorgiallaRg-Bold.woff2') format('woff2'),
+    url('../fonts/VipnagorgiallaRg-Bold.woff') format('woff'),
+    url('../fonts/VipnagorgiallaRg-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -23,8 +24,8 @@
   --title: 3.5rem;
   --subtitle: 2.5rem;
   --paragraph: 1.2rem;
-  --title-font: "Vipnagorgialla", sans-serif;
-  --text-font: "Montserrat", sans-serif;
+  --title-font: 'Vipnagorgialla', sans-serif;
+  --text-font: 'Montserrat', sans-serif;
 }
 
 *,
@@ -227,8 +228,9 @@ section {
 .text-container {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  justify-content: start;
+  align-items: start;
+  margin-left: -50px;
 }
 
 .title {
@@ -486,16 +488,25 @@ section {
   transition: ease-in-out 10s;
 }
 
-.projects-container .project-card-container:nth-child(2) .project-card .card-content {
+.projects-container
+  .project-card-container:nth-child(2)
+  .project-card
+  .card-content {
   background-image: url(../img/landing-itravel.png);
 }
 
-.projects-container .project-card-container:nth-child(3) .project-card .card-content {
+.projects-container
+  .project-card-container:nth-child(3)
+  .project-card
+  .card-content {
   background-image: url(../img/landing-catursantos.png);
   transition: ease-in-out 20s;
 }
 
-.projects-container .project-card-container:nth-child(4) .project-card .card-content {
+.projects-container
+  .project-card-container:nth-child(4)
+  .project-card
+  .card-content {
   background-image: url(../img/landing-congreso.png);
 }
 
@@ -1142,7 +1153,7 @@ footer .container {
   }
 
   .service-card-text::before {
-    content: "";
+    content: '';
     position: absolute;
     width: 1.2rem;
     height: 1rem;
