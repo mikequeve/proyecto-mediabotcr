@@ -1,5 +1,5 @@
 {
-  "header":{
+  "header": {
     "menu-home": "Inicio",
     "menu-about": "Sobre Nosotros",
     "menu-projects": "Proyectos",
@@ -13,7 +13,7 @@
   },
   "about": {
     "subtitle": "Sobre Nosotros",
-    "about-text": "Con una pasión inquebrantable por la innovación, MediaBot se erige como el socio ideal para aquellos que buscan destacarse en el vasto panorama digital. Nuestro compromiso va más allá de la creación de sitios web visualmente impactantes; trabajamos incansablemente para comprender la esencia única de cada marca y transformarla en una narrativa digital cautivadora. \n\n En MediaBot, la excelencia es nuestro estándar, la creatividad es nuestra moneda y la satisfacción del cliente es nuestra brújula. Nos enorgullece ser los artesanos de la transformación digital, ofreciendo soluciones que superan las expectativas y estableciendo estándares en la intersección de la tecnología y la creatividad."
+    "about-text": "Con una pasión inquebrantable por la innovación, MediaBot se erige como el socio ideal para aquellos que buscan destacarse en el vasto panorama digital. Nuestro compromiso va más allá de la creación de sitios web visualmente impactantes; trabajamos incansablemente para comprender la esencia única de cada marca y transformarla en una narrativa digital cautivadora.<br/><br/> En MediaBot, la excelencia es nuestro estándar, la creatividad es nuestra moneda y la satisfacción del cliente es nuestra brújula. Nos enorgullece ser los artesanos de la transformación digital, ofreciendo soluciones que superan las expectativas y estableciendo estándares en la intersección de la tecnología y la creatividad."
   },
   "projects": {
     "subtitle": "Proyectos"
@@ -27,7 +27,7 @@
   },
   "contact": {
     "subtitle": "Mantengámonos en Contacto",
-    "contact-text": "Envíanos tus dudas o preguntas sobre tu proyecto; hagamos que tu negocio prospere.\n\nMediabot: Tú Visión, Nuestro compromiso."
+    "contact-text": "Envíanos tus dudas o preguntas sobre tu proyecto; hagamos que tu negocio prospere.<br/><br/>Mediabot: Tú Visión, Nuestro compromiso."
   },
   "faqs": {
     "question-1": "¿Cuánto debo esperar pagar por un sitio web?",
@@ -37,7 +37,6 @@
     "question-3": "¿Porqué debería contratar tus servicios?",
     "answer-3": "Nuestro compromiso va más allá de entregar un proyecto; estamos aquí para ser tus socios digitales en cada paso del camino. Creemos en construir relaciones a largo plazo. Profundizamos en una comprensión profunda de tus necesidades y objetivos, trabajando juntos para garantizar que cada aspecto de nuestra colaboración sea un paso hacia un éxito online sostenible.",
     "question-4": "¿Ofreces otros servicios aparte de Desarrollo Web?",
-    "answer-4": "¡Claro! Entre los servicios que ofrecemos se encuentran estrategias de marketing en redes sociales y fotografía de productos." 
+    "answer-4": "¡Claro! Entre los servicios que ofrecemos se encuentran estrategias de marketing en redes sociales y fotografía de productos."
   }
-
 }
